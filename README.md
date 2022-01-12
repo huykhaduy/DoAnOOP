@@ -12,10 +12,10 @@ Chức năng của đồ án:
 
 Các chức năng chia thành 3 loại tùy theo tài khoản của người dùng:
 1/ Chức năng của lễ tân: 
-	- Đặt phòng: lễ tân có thể đặt phòng còn trống cho các khách hàng đã được lưu thông tin.
-	- Thêm, xóa, sửa, tìm kiếm thông tin khách hàng: thông tin khách hàng bao gồm họ tên, số CCCD/CMND, ngày sinh, số điện thoại và địa chỉ.
-	- Yêu cầu dịch vụ: thêm các dịch vụ mà khách hàng yêu cầu vào phiếu thu
-	- Thanh toán hóa đơn: thanh toán tiền thuê phòng và tiền dịch vụ của một phòng nào đó.
+- Đặt phòng: lễ tân có thể đặt phòng còn trống cho các khách hàng đã được lưu thông tin.
+- Thêm, xóa, sửa, tìm kiếm thông tin khách hàng: thông tin khách hàng bao gồm họ tên, số CCCD/CMND, ngày sinh, số điện thoại và địa chỉ.
+- Yêu cầu dịch vụ: thêm các dịch vụ mà khách hàng yêu cầu vào phiếu thu
+- Thanh toán hóa đơn: thanh toán tiền thuê phòng và tiền dịch vụ của một phòng nào đó.
 2/ Chức năng của quản lý
 	- Thêm, xóa, sửa, tìm kiếm thông tin của phòng: thông tin phòng bao gồm mã phòng, mã lầu, số giường, số người tối đa.
 	- Thay đổi giá phòng: thay đổi giá của tất cả các phòng thuộc loại thường hoặc vip.
