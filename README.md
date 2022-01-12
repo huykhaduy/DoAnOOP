@@ -11,6 +11,7 @@ Hướng dẫn sử dụng:
 Chức năng của đồ án:
 
 <i>Các chức năng chia thành 3 loại tùy theo tài khoản của người dùng:</i><br>
+
 <b>1/ Chức năng của lễ tân: </b><br>
 - Đặt phòng: lễ tân có thể đặt phòng còn trống cho các khách hàng đã được lưu thông tin.
 - Thêm, xóa, sửa, tìm kiếm thông tin khách hàng: thông tin khách hàng bao gồm họ tên, số CCCD/CMND, ngày sinh, số điện thoại và địa chỉ.
